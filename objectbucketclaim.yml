@@ -1,0 +1,11 @@
+---
+apiVersion: objectbucket.io/v1alpha1
+kind: ObjectBucketClai
+metadata:
+  name: CHANGE_ME
+  namepace: CHANGE_ME
+spec:
+  additionalconfig:
+    bucketclass: CHANGE_ME
+  generateBucketName: CHANGE_ME
+  sorageClassName: CHANGE_ME
